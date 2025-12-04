@@ -1,2 +1,2 @@
-# crud_client
-Projeto de CRUD com Python
+# CRUD_CLIENTES
+CRUD de Gerenciamento de Clientes, desenvolvido com finalidade educacional.
